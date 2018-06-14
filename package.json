@@ -4,7 +4,8 @@
   "description": "reactjs app with parcel bundler",
   "main": "index.js",
   "scripts": {
-    "start": "parcel -p 3000 index.html"
+    "start": "parcel -p 3000 index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [
     "reactjs",
